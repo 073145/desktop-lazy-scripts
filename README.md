@@ -1,3 +1,3 @@
 # desktop-lazy-scripts
 
-Sys admin routines
+Set of automation and routine tasks...
